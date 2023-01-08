@@ -7,5 +7,4 @@ To run this project on your local server, make sure you have Node JS installed a
 ```
 node fibonacci.js
 node mergeSort.js
-
 ```
